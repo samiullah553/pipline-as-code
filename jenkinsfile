@@ -32,7 +32,6 @@ pipeline{
           pwd
           git clone https://github.com/samiullah553/pipline-as-code.git
           ls
-          cat index.html
           """
       }
     }
