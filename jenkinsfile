@@ -33,7 +33,7 @@ pipeline{
           git clone https://github.com/samiullah553/pipline-as-code.git
           ls
           pwd
-          ls
+          ls pipeline-as-code
           """
       }
     }
